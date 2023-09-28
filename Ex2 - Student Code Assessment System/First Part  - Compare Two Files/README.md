@@ -1,4 +1,4 @@
-#### Exersice explanation:
+### Exersice explanation:
 Write a program that takes paths to two files as arguments to main, and checks if the two files are identical/similar/different. For clarity, the paths include the file names.
 
 If the files are identical (contain exactly the same content), the program returns 1, if the files are similar (explanation below) the program returns 3, otherwise if the files are different it returns 2 (pay attention, this is not a program that prints to the screen).
@@ -16,7 +16,7 @@ You can use strcmp even though in the comments at the end of the exercise it was
 When compiling the program, name it comp.out instead of a.out.
 
 
-Running the program:
+### Running the program:
 
 1. You can compile by yourself and run it as you want.
 2. You can run the python_test.py script which will compile it for you, and will run a test on all cases from the textComparison folder.
